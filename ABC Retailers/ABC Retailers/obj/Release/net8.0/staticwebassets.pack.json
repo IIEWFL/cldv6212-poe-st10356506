@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ABC Retailers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ABC Retailers.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\0012161e-e093-4463-ae4d-c4539773a272.jpg",
+      "PackagePath": "staticwebassets\\images\\0012161e-e093-4463-ae4d-c4539773a272.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\06be8f7e-098c-4857-a315-c7595a4e20c3.jpg",
+      "PackagePath": "staticwebassets\\images\\06be8f7e-098c-4857-a315-c7595a4e20c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\1a6e0bfe-6b42-4b64-bf1d-733abcf7d065",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\1b1fe97d-2e84-4ea0-80c0-e729495b00ff.jpg",
+      "PackagePath": "staticwebassets\\images\\1b1fe97d-2e84-4ea0-80c0-e729495b00ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\350ba068-d106-4b30-abce-d0d2343afbbf.jpg",
+      "PackagePath": "staticwebassets\\images\\350ba068-d106-4b30-abce-d0d2343afbbf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\3523f548-bb12-4df0-802f-90e349e9a1e4.jpg",
+      "PackagePath": "staticwebassets\\images\\3523f548-bb12-4df0-802f-90e349e9a1e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\5329c51b-0cd5-47b1-b26e-ead0d61ca8f7",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\58f21560-f581-4b47-bb1c-274ca75ae18e.jpg",
+      "PackagePath": "staticwebassets\\images\\58f21560-f581-4b47-bb1c-274ca75ae18e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\608948c8-858d-4bfc-bed4-d36e4b83e39f.jpg",
+      "PackagePath": "staticwebassets\\images\\608948c8-858d-4bfc-bed4-d36e4b83e39f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\63bb11c4-b9c2-4923-9ced-3ee76b508318.jpg",
+      "PackagePath": "staticwebassets\\images\\63bb11c4-b9c2-4923-9ced-3ee76b508318.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\7372f03c-1b11-4c0b-a3c6-6f8cd3018779.jpg",
+      "PackagePath": "staticwebassets\\images\\7372f03c-1b11-4c0b-a3c6-6f8cd3018779.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\751128da-b6a4-49e2-8aa4-92f72c62e23c.jpg",
+      "PackagePath": "staticwebassets\\images\\751128da-b6a4-49e2-8aa4-92f72c62e23c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\7ec58cd0-fed2-40b0-ade1-009826c64f96.jpg",
+      "PackagePath": "staticwebassets\\images\\7ec58cd0-fed2-40b0-ade1-009826c64f96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\89309aee-b6c4-4128-b9b6-c5dfc20fb7d6.jpg",
+      "PackagePath": "staticwebassets\\images\\89309aee-b6c4-4128-b9b6-c5dfc20fb7d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\a329f654-7e68-4063-bd19-b4f7e7590864.jpg",
+      "PackagePath": "staticwebassets\\images\\a329f654-7e68-4063-bd19-b4f7e7590864.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\bc58bf0b-c345-4456-a465-b6d9e6cf9168.jpg",
+      "PackagePath": "staticwebassets\\images\\bc58bf0b-c345-4456-a465-b6d9e6cf9168.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\cc5c09e2-db20-4cc8-a20e-bbf0668a73cd.jpg",
+      "PackagePath": "staticwebassets\\images\\cc5c09e2-db20-4cc8-a20e-bbf0668a73cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\d645b72c-fcc8-4f42-a951-03772c31ebab.jpg",
+      "PackagePath": "staticwebassets\\images\\d645b72c-fcc8-4f42-a951-03772c31ebab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\d937c203-26ae-4bad-bcef-da44189cae0b.jpg",
+      "PackagePath": "staticwebassets\\images\\d937c203-26ae-4bad-bcef-da44189cae0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\db827a87-99c0-4de2-b078-e28747ecf380",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\images\\f74759b5-56b1-40df-8c3e-55f43ef274a2.jpg",
+      "PackagePath": "staticwebassets\\images\\f74759b5-56b1-40df-8c3e-55f43ef274a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\cldv6212-part-2-st10356506\\ABC Retailers\\ABC Retailers\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ABC Retailers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ABC Retailers.props",
+      "PackagePath": "build\\ABC Retailers.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ABC Retailers.props",
+      "PackagePath": "buildMultiTargeting\\ABC Retailers.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ABC Retailers.props",
+      "PackagePath": "buildTransitive\\ABC Retailers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

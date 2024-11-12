@@ -1,0 +1,81 @@
+﻿@model IEnumerable<ABC_Retailers.Models.OrderModel>
+@* pulls data from order model https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-6.0&form=MG0AV3*@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    @*https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-6.0&form=MG0AV3&tabs=visual-studio*@
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Receipt</title>
+    <p>Represents the data stored in the order table in Azure SQL Database</p>
+    <!-- Bootstrap CSS for styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /*displays the order receipts on cards*/
+        /*https://getbootstrap.com/docs/5.3/getting-started/introduction/?form=MG0AV3*/
+        /*https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files?view=aspnetcore-6.0&form=MG0AV3*/
+
+        .card {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .card-body {
+            padding: 15px;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+        }
+
+        .card-text {
+            font-size: 0.9rem;
+        }
+
+        .total-amount {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #007bff;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container my-4">
+        <h2 class="mb-4">Order History</h2>
+        <div class="row">
+            @if (Model != null && Model.Any())
+            {
+                @* displays the previous orders as receipts *@
+                foreach (var order in Model)
+                {
+                   @*  calculate the subtotal of the product by multiplying the price with the quantity *@
+                    @*https://html.form.guide/calculation-forms/simple-html-calculation-form/*@
+
+                    var subtotal = (decimal)(order.Price * order.Quantity);
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">@order.ProductName</h5>
+                                <p class="card-text"><strong>Description:</strong> @order.ProductDescription</p>
+                                <p class="card-text"><strong>Price:</strong> R @order.Price</p>
+                                <p class="card-text"><strong>Quantity:</strong> @order.Quantity</p>
+                                <p class="card-text"><strong>Subtotal:</strong> R @subtotal</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+           @*  message to be displayed if no orders are placed yet *@
+            else
+            {
+                <div class="col-12">
+                    <div class="alert alert-info">No orders found.</div>
+                </div>
+            }
+        </div>
+      </div>
+    </body>
+</html>
